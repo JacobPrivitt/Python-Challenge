@@ -1,0 +1,46 @@
+{
+
+  "Armor2": [
+
+    {
+
+      "atype" : "helmet",
+      "type" : "medium",
+      "name" : "Head Pan",
+      "description" : "Cooking wear, shaped to your head."
+
+    },
+
+
+    {
+
+      "atype" : "breastplate",
+      "type" : "medium",
+      "name" : "Chest Skillet",
+      "description" : "Safe, but not too safe."
+
+    },
+
+
+    {
+
+      "atype" : "pants",
+      "type" : "medium",
+      "name" : "Pan Pants",
+      "description" : "Chaffing, lots of chaffing."
+
+    },
+
+
+    {
+
+      "atype" : "boots",
+      "type" : "medium",
+      "name" : "Foot Pans",
+      "description" : "Heavy, but effective."
+
+    }
+
+  ]
+
+}

@@ -1,0 +1,46 @@
+{
+
+  "Armor1": [
+
+    {
+
+      "atype" : "helmet",
+      "type" : "light",
+      "name" : "Paper helmet",
+      "description" : "A cheap and light helmet for beggingers."
+
+    },
+
+
+    {
+
+      "atype" : "breastplate",
+      "type" : "light",
+      "name" : "Paper plate",
+      "description" : "This won't really stop anything."
+
+    },
+
+
+    {
+
+      "atype" : "pants",
+      "type" : "light",
+      "name" : "Paper pants",
+      "description" : "They probably wont rip while you run."
+
+    },
+
+
+    {
+
+      "aytpe" : "boots",
+      "type" : "light",
+      "name" : "Paper boots",
+      "description" : "Don't get these wet."
+
+    }
+
+  ]
+
+}

@@ -1,0 +1,28 @@
+{
+
+  "Weapons": [
+
+    {
+      "wtype" : "bow",
+      "type" : "shortrangebow",
+      "name" : "String Bow",
+      "description" : "Difficult to use, but very deadly.."
+    },
+
+    {
+      "wtype" : "bow",
+      "type" : "midrangebow",
+      "name" : "Valkyrie",
+      "description" : "Great bow, not too expensive."
+    },
+
+    {
+      "wtype" : "bow",
+      "type" : "longrangebow",
+      "name" : "Cain's Bow",
+      "description" : "A bow from ancient times, created to kill any being."
+    }
+
+  ]
+
+}

@@ -1,0 +1,53 @@
+{
+  "Swords": [
+
+    {
+
+    "wtype" : "sword",
+    "type" : "onehandedsword",
+    "name" : "Followers Sabre",
+    "description" : "Light weight, and maneuverable."
+
+    },
+
+    {
+
+    "wtype" : "sword",
+    "type" : "twohandedsword",
+    "name" : "Claymore",
+    "description" : "A well weighted sword with blade to spare."
+
+    }
+,
+
+    {
+
+    "wtype" : "sword",
+    "type" : "cleaver",
+    "name": "Bone Butter",
+    "description" : "A butcher's best friend, and makes quick work of bone."
+
+    },
+
+    {
+
+     "wtype" : "sword",
+     "type" : "hero",
+     "name" : "Chain Breaker",
+     "description" : "A mighty sword that has freed scores of armies."
+
+    },
+
+    {
+
+     "wtype" : "sword",
+     "type" : "hero",
+     "name" : "Wind Walker",
+     "description" : "A sword blessed to be weightless."
+
+    }
+
+
+  ]
+
+}

@@ -1,0 +1,6 @@
+weapon type = wtype = swords, bows, staffs, etc.
+armor type = atype = helemt, brestplate, pants, boots
+type = weapon specific = long range, short range, two handed, etc.
+name
+description
+I'll add the rest later, like fill volume n' shit

@@ -1,0 +1,23 @@
+var bows = {
+	"shortrangebow" : {
+		"name" = "String Bow"
+		"description" = "Great bow for beggingers."
+		"fil_volume" = "4.0"
+		"weight" = "4.0"
+		"carry_able" = "True"
+		},
+	"midrangebow": {
+		"name" = "Valkyrie Bow"
+		"description" = "Difficult to use, but very deadly."
+		"fil_volume" = "6.0"
+		"weight" = "6.0"
+		"carry_able" = "True"
+		}
+	"longrangebow": {
+		"name" = "Cain's Bow"
+		"description" = "A bow from ancient times."
+		"fil_volume" = "8.0"
+		"weight" = "8.0"
+		"carry_able" = "True"
+		}
+	}
